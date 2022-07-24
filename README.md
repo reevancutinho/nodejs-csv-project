@@ -1,6 +1,7 @@
 # nodejs-csv-project
 
 //create a .env file and add and initialize 2 variables MONGO_URI and PORT
+
 MONGO_URI = "url here"
 PORT=3000
 
